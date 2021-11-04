@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# truffle
+build
+
+# modules
+node_modules
+yarn-error.log
+
+.vscode
+.env
+.gitattributes
